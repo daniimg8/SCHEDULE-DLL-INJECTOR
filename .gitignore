@@ -1,0 +1,12 @@
+# Ignorar carpetas de compilación de .NET
+MyDLLInjector/bin/
+MyDLLInjector/obj/
+
+# Ignorar ejecutables y librerías generadas
+*.exe
+*.dll
+*.pdb
+*.user
+
+# Ignorar archivos temporales
+.vs/
