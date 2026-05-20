@@ -1,4 +1,4 @@
-💉 Pro DLL Injector (x86 Edition)
+💉 SCHEDULE DLL Injector (x86 Edition)
 
 A lightweight, high-performance, and standalone 32-bit (x86) DLL Injector built with C# and .NET 8. This tool utilizes the standard Win32 API (CreateRemoteThread + LoadLibraryA) to seamlessly map and execute custom payloads inside target processes.
 
