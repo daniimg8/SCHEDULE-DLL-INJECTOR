@@ -21,7 +21,7 @@ Robust Error Handling: Built-in privilege checks, architecture mismatch detectio
 
 🚀 How to Use
 
-Go to the Releases page and download the latest MyDLLInjector.exe.
+Go to the Releases page and download the latest ScheduleDLLInjector.exe.
 
 Run the injector as Administrator (Crucial: Windows requires elevated privileges to access other processes' memory).
 
