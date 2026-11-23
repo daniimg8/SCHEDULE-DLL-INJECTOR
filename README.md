@@ -39,7 +39,7 @@ If you prefer to compile the tool yourself, follow these steps:
 
 Clone this repository:
 
-git clone [https://github.com/YourUsername/YourRepository.git](https://github.com/YourUsername/YourRepository.git)
+git clone [https://github.com/YourUsername/YourRepository.git](https://github.com/daniimg8/SCHEDULE-DLL-INJECTOR.git)
 
 
 Navigate to the project directory:
